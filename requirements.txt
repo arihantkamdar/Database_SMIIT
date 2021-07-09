@@ -2,4 +2,4 @@ pandas
 streamlit
 pybase64
 Pillow
-sqlite
+db-sqlite3
