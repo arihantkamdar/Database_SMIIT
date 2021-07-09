@@ -1,5 +1,5 @@
 pandas
 streamlit
-base64
+pybase64
 PIL
 sqlite
